@@ -43,7 +43,6 @@ Y por último creo que la enumeración me sería útil por ejemplo al momento de
 
 
 CITA: 
-
 Volume composé de trois manuscrits. | Gallica (bnf.fr)
 
 REFERENCIA: 
