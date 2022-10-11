@@ -44,8 +44,8 @@ Y por último creo que la enumeración me sería útil por ejemplo al momento de
 
 
 CITA: 
-Volume composé de trois manuscrits. | Gallica (bnf.fr)
+Volume composé de trois manuscrits. | Gallica
 
 REFERENCIA: 
 
-Gallica. (s.f.). volume composé de trois manuscrits. https://gallica.bnf.fr/ark:/12148/btv1b52517146s/f45.item
+Gallica. volume composé de trois manuscrits. https://gallica.bnf.fr/ark:/12148/btv1b52517146s/f45.item
